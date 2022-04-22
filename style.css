@@ -1,0 +1,60 @@
+.naslov {
+	font-size: 50px;
+	color: darkblue;
+	margin-left: 70px;
+}
+body {
+	background-image: url(pozadina.jpg);
+}
+.opis {
+	background-color: yellow;
+	width: 1346px;
+	font-size: 25px;
+	left: 10px;
+	top: 85px;
+}
+.polica {
+	top: 30px;
+	right: 300px;
+	color: black;
+	position: absolute;
+}
+.pocetna {
+	color: black;
+	top: 30px;
+	right: 430px;
+	text-decoration: underline;
+	position: absolute;
+}
+.okulu {
+	top: 30px;
+	right: 185px;
+	color: black;
+	position: absolute;
+}
+.yt {
+	position: absolute;
+	margin-left: 70px;
+	margin-top: 384px;
+}
+.zaprati {
+	position: absolute;
+	left: 30px;
+	bottom: 100px;
+	background-color: yellow;
+	width: 1306px;
+}
+.ig {
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 620px;
+}
+.tt {
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 1186px;
+}
+.ikona {
+	position: absolute;
+	margin-left: 15px;
+}

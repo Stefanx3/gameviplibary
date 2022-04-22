@@ -1,0 +1,26 @@
+.naslov {
+	font-size: 50px;
+	color: darkblue;
+}
+body {
+	background-image: url(pozadina.jpg);
+}
+.polica {
+	position: fixed;
+	top: 30px;
+	right: 300px;
+	text-decoration: underline;
+	color: black;
+}
+.pocetna {
+	color: black;
+	position: fixed;
+	top: 30px;
+	right: 430px;
+}
+.okulu {
+	position: fixed;
+	top: 30px;
+	right: 185px;
+	color: black;
+}
